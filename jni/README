@@ -1,0 +1,7 @@
+modify src/file.c: main{} magicfile="you wanted dir"
+push file to your phone
+push magic/Magicdir to your phone
+#crete magic.mgc
+./file -C -m Magicdir
+mv Magicdir.mgc "you wanted dir"/magic.mgc
+
